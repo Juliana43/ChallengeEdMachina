@@ -21,14 +21,18 @@
 ![Grafico de densidad](https://github.com/user-attachments/assets/0fc74316-48bc-46bc-94ac-8bee8d51382a)
 
  - **Boxplot:** El boxplot muestra la distribución de las notas finales según cada periodo académico. Permite identificar la mediana (línea central en la caja), los cuartiles (caja) y los valores atípicos (puntos fuera de los bigotes).
-   ![boxplot](https://github.com/user-attachments/assets/8ef6b8dd-a4e5-4b1c-847f-b23bcca88a6e)
+ ![boxplot](https://github.com/user-attachments/assets/8ef6b8dd-a4e5-4b1c-847f-b23bcca88a6e)
 
-- **Ingenieria de Caracteristicas:** Creamos nuevas caracteriasticas basados en el analisis exploratorio, sugerimos y creamos nuevas columnas que nos ayudaran en nuestra visualizacion.
+ ## Ingenieria de Caracteristicas
+ Creamos nuevas caracteriasticas basados en el analisis exploratorio, sugerimos y creamos nuevas columnas que nos ayudaran en nuestra visualizacion.
 - total_entregas
 - total_examenes
 - promedio_parcial
   
   ![columnas nuevas](https://github.com/user-attachments/assets/5db8bf31-7402-483a-9d43-d3551f92eed6)
+
+## Implementacion y Escabilidad
+
 
 
 
